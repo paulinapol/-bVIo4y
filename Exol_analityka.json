@@ -1,0 +1,853 @@
+{
+    "data": [
+ {
+   "A":"Parametr"
+ },
+ {
+   "A":"2-Etylheksanol (w Degrassal; M-130.23) [%]"
+ },
+ {
+   "A":"2-Etyloheksanol (GC; diester; DOSS) [%]"
+ },
+ {
+   "A":"Alkalicznosc calkowita (cocobetainy) [meq/g]"
+ },
+ {
+   "A":"Alkalicznosc wolna (L'Oreal) [meq/g]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC) - BO [%/mol]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC) - EO [%/mol]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC) - PO [%/mol]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - Cxx [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C6 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C8 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C9 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C10 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C11 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C12 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C13 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C14 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C15 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C16 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C16:1 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C18 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C18:1 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C18:2 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C20 [%]"
+ },
+ {
+   "A":"Alkoksylaty (HPLC; dystrybucja weglowa) - C22 [%]"
+ },
+ {
+   "A":"Amidoamina czystosc (GC) [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - Cxx [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C6 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C8 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C10 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C12 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C14 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C16 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C16:1 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C18 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C18:1 [%]"
+ },
+ {
+   "A":"Amidoamina dystrybucja (GC) - C18:2 [%]"
+ },
+ {
+   "A":"Amidoamina w betainach (GC) [%]"
+ },
+ {
+   "A":"Aminy I+II-rzedowe [%]"
+ },
+ {
+   "A":"Aminy III-rzedowe [%] "
+ },
+ {
+   "A":"Amonowe jony w przel.na siarczanowe [%]"
+ },
+ {
+   "A":"Amonowe jony [mg/mL]"
+ },
+ {
+   "A":"Azot amidowy [%]"
+ },
+ {
+   "A":"Barwa w skali Gardnera produktu"
+ },
+ {
+   "A":"Barwa w skali Gardnera roztworu"
+ },
+ {
+   "A":"Barwa w skali Hazena produktu"
+ },
+ {
+   "A":"Barwa w skali Hazena roztworu"
+ },
+ {
+   "A":"Barwa w skali jodowej produktu"
+ },
+ {
+   "A":"Barwa w skali jodowej roztworu"
+ },
+ {
+   "A":"Barwa w skali Kletta 25oC"
+ },
+ {
+   "A":"Benzoesan sodu wp. na kwas benzoesowy (HPLC) [%]"
+ },
+ {
+   "A":"Bezwodnik maleinowy (LC; diester; DOSS) [%]"
+ },
+ {
+   "A":"Biblioteka produktowa HPLC"
+ },
+ {
+   "A":"Biblioteka produktowa LCMS\\n"
+ },
+ {
+   "A":"Chlor w podchlorynach [%]"
+ },
+ {
+   "A":"Chlorek amonu (Mw=53.5; potencjometrycznie) [%]"
+ },
+ {
+   "A":"Chlorek sodu (klasycznie) [%]"
+ },
+ {
+   "A":"Chlorek sodu (potencjometrycznie) [%]"
+ },
+ {
+   "A":"DCA w betainach (LC) [ppm]"
+ },
+ {
+   "A":"DIOKSANY - 1;4-dioxan [ppm]\\n"
+ },
+ {
+   "A":"DIOKSANY (GC) - 1;4-dioxan [ppm]\\n"
+ },
+ {
+   "A":"DIOKSANY (GC) - 2-metylodioxan [ppm]"
+ },
+ {
+   "A":"DIOKSANY (GC) - 4-metylodioxan [ppm]"
+ },
+ {
+   "A":"DMAPA czystosc (HPLC) [%]"
+ },
+ {
+   "A":"DMAPA w amidoaminie (HPLC) [%]"
+ },
+ {
+   "A":"DMAPA w amidoaminie (klasycznie) [%]"
+ },
+ {
+   "A":"DMAPA w betainach (HPLC) [ppm]"
+ },
+ {
+   "A":"Dystrybucja etoksymerow (GC); rozklad etoksymerow [%]"
+ },
+ {
+   "A":"Dystrybucja etoksymerow (GC); stopien etoksylacji [mol]"
+ },
+ {
+   "A":"Dystrybucja etoksymerow (GC); wolny alkohol [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - Cxx [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C6 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C8 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C9 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C10 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C11 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C12 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C13 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C14 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C15 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C16 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C16:1 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C18 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C18:1 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C18:2 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C20 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (GC) - C22 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - Cxx [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C6 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C8 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C9 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C10 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C11 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C12 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C13 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C14 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C15 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C16 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C16:1 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C18 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C18:1 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C18:2 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C20 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa (HPLC) - C22 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - Cxx [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C6 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C8 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C9 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C10 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C11 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C12 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C13 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C14 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C15 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C16 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C16:1 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C18 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C18:1 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C18:2 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C20 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa etoksymerow (GC) - C22 [%]"
+ },
+ {
+   "A":"Dystrybucja weglowa Rosulfan AOS [%]"
+ },
+ {
+   "A":"ESTERAMINY; kwasy tluszczowe [%]"
+ },
+ {
+   "A":"ESTERAMINY; Liczba kwasowa [mgKOH/g]"
+ },
+ {
+   "A":"ESTERAMINY; zaw.trietanoloaminy [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; diester [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; kwas fosforowy (M=98Da) [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; monoester  [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; Mono:Diester (LCMS) [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; Substancje niejonowe (HPLC) [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; Substancje niejonowe (klasycznie) [%]"
+ },
+ {
+   "A":"ESTRY FOSF.; zawartosc fosforu [%]"
+ },
+ {
+   "A":"ESTRY w KAD (met.IR) [%]"
+ },
+ {
+   "A":"Fumaran (LC; diester DOSS) [%]"
+ },
+ {
+   "A":"Gestosc produktu [g/mL]"
+ },
+ {
+   "A":"Gestosc roztowru [g/mL]"
+ },
+ {
+   "A":"Gliceryna (GC) [%]"
+ },
+ {
+   "A":"Gliceryna (klasycznie) [%]"
+ },
+ {
+   "A":"Glicyna (UPLC; OPA) [%]"
+ },
+ {
+   "A":"Glikole (GC) - BDG [%]"
+ },
+ {
+   "A":"Glikole (GC) - BG [%]"
+ },
+ {
+   "A":"Glikole (GC) - DEG [%]"
+ },
+ {
+   "A":"Glikole (GC) - MEG [%]"
+ },
+ {
+   "A":"Glikole (GC) - TEG [%]"
+ },
+ {
+   "A":"Glikole (GC) - xxx [%]"
+ },
+ {
+   "A":"Kwas adypinowy (LC) [%]"
+ },
+ {
+   "A":"Kwas bursztynowy (LC) [%]"
+ },
+ {
+   "A":"Kwas cytrynowy (LC) [%]"
+ },
+ {
+   "A":"Kwas glikolowy (LC) [%]"
+ },
+ {
+   "A":"Kwas mlekowy (LC) [%]"
+ },
+ {
+   "A":"Kwas mrowkowy (LC) [%]"
+ },
+ {
+   "A":"Kwas octowy (LC) [%]"
+ },
+ {
+   "A":"Kwas siarkowy (LC) [%]"
+ },
+ {
+   "A":"Kwasowosc/zasadowosc [mL]"
+ },
+ {
+   "A":"Kwasy tluszczowe calkowite [%]"
+ },
+ {
+   "A":"Kwasy tluszczowe wolne [%]"
+ },
+ {
+   "A":"Lepkosc kinematyczna produktu [mm2∙s-1]"
+ },
+ {
+   "A":"Lepkosc kinematyczna roztowru [mm2∙s-1]"
+ },
+ {
+   "A":"Lepkosc produktu [cP]"
+ },
+ {
+   "A":"Lepkosc roztworu [cP]"
+ },
+ {
+   "A":"Liczba aminowa [mgKOH/g]"
+ },
+ {
+   "A":"Liczba epoksydowa [%]"
+ },
+ {
+   "A":"Liczba epoksydowa [mol/100g] "
+ },
+ {
+   "A":"Liczba hydroksylowa (klas.)  [mgKOH/g]"
+ },
+ {
+   "A":"Liczba hydroksylowa [meq/g]"
+ },
+ {
+   "A":"Liczba hydroksylowa [mgKOH/g]"
+ },
+ {
+   "A":"Liczba jodowa (aminy tluszczowe) [mg I2/g]"
+ },
+ {
+   "A":"Liczba jodowa [g I2/100g]"
+ },
+ {
+   "A":"Liczba kwasowa (K40HC) [mgKOH/g]"
+ },
+ {
+   "A":"Liczba kwasowa do 1.PR [mgKOH/g]"
+ },
+ {
+   "A":"Liczba kwasowa do 2.PR [mgKOH/g]"
+ },
+ {
+   "A":"Liczba kwasowa [mgKOH/g]"
+ },
+ {
+   "A":"Liczba nadtlenkowa (betainy) [ppm]"
+ },
+ {
+   "A":"Liczba nadtlenkowa (PhEur) [ppm]"
+ },
+ {
+   "A":"Liczba nadtlenkowa (PN ISO) [meqO2/kg]"
+ },
+ {
+   "A":"Liczba nadtlenkowa (PN ISO) [ppm]"
+ },
+ {
+   "A":"Liczba wody (RSN) [mL]"
+ },
+ {
+   "A":"Liczba zasadowa (metoda LOH) [mgKOH/g]"
+ },
+ {
+   "A":"Liczba zmydlania [mgKOH/g]"
+ },
+ {
+   "A":"Maleinian (LC; diester DOSS) [%]"
+ },
+ {
+   "A":"Maleinian:Fumaran (LC; diester DOSS) [mol:mol]"
+ },
+ {
+   "A":"Masa czasteczkowa (GPC/AKRYL) [Da] "
+ },
+ {
+   "A":"Masa czasteczkowa (GPC/PEG) [Da] "
+ },
+ {
+   "A":"Masa czasteczkowa (GPC/PEG_PPG) [Da] "
+ },
+ {
+   "A":"Masa czasteczkowa LC-MS [Da]"
+ },
+ {
+   "A":"Masa czasteczkowa [Da]"
+ },
+ {
+   "A":"MCA w betainach (LC) [ppm]"
+ },
+ {
+   "A":"Mydla DEA w KAD (M=310Da) [%]"
+ },
+ {
+   "A":"Mydla DEA w RAD (M=380Da) [%]"
+ },
+ {
+   "A":"Mydla MEA w KAM (M=266Da) [%]"
+ },
+ {
+   "A":"Nonylofenol w Rokanolach (HPLC) [ppm]"
+ },
+ {
+   "A":"PEG (HPLC w Rokamin) [%]"
+ },
+ {
+   "A":"PEG (HPLC w Rokanol) [%]"
+ },
+ {
+   "A":"PEG (HPLC; w MPEG) [%]"
+ },
+ {
+   "A":"pH produktu (w masie)"
+ },
+ {
+   "A":"pH 1% r-ru SA w wodzie (metoda A)"
+ },
+ {
+   "A":"pH roztworu SA w wodzie"
+ },
+ {
+   "A":"pH 5% r-ru PH w wodzie (metoda B)"
+ },
+ {
+   "A":"pH roztworu PH w wodzie"
+ },
+ {
+   "A":"pH 5% r-ru w woda:EtOH; 1:1 (metoda C)"
+ },
+ {
+   "A":"pH roztworu w woda:EtOH; 1:1"
+ },
+ {
+   "A":"pH roztworu w woda:EtOH; 3:1"
+ },
+ {
+   "A":"pH roztworu"
+ },
+ {
+   "A":"Popiol siarczanowy [%]"
+ },
+ {
+   "A":"Przewodnosc produktu [µS/cm]"
+ },
+ {
+   "A":"Przewodnosc roztworu [µS/cm]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda A modyfikowana [°C]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda A 10% r-r [°C]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda A [°C]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda B [°C]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda C [°C]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda D [°C]"
+ },
+ {
+   "A":"Punkt zmetnienia; metoda E [°C]"
+ },
+ {
+   "A":"Rozpuszczalnosc surfaktantow"
+ },
+ {
+   "A":"Sarkozyna (UV-Vis) [%]"
+ },
+ {
+   "A":"Siarczan amonu (Mw=132Da) [%]"
+ },
+ {
+   "A":"Siarczan magnezu (Mw=120Da) [%]"
+ },
+ {
+   "A":"Siarczan MEA (Mw=141Da) [%]"
+ },
+ {
+   "A":"Siarczan MIPA (Mw=248Da) [%]"
+ },
+ {
+   "A":"Siarczan sodu (Mw=142Da) wp.na akt. [%]"
+ },
+ {
+   "A":"Siarczan sodu (Mw=142Da) [%]"
+ },
+ {
+   "A":"Siarczanowe jony (Mw=96Da) [%]"
+ },
+ {
+   "A":"Siarczyny wolne (siarczan (IV) sodu) [%]"
+ },
+ {
+   "A":"Siarkowy kwas (Mw=98Da) [%]"
+ },
+ {
+   "A":"SLS w SLES (HPLC) [%]"
+ },
+ {
+   "A":"SO2 [mg/L]"
+ },
+ {
+   "A":"Stopien etoksylacji [mol]"
+ },
+ {
+   "A":"Subst.aktywna (anionowe) [%]"
+ },
+ {
+   "A":"Subst.aktywna (anionowe - potencjometrycznie) [%]"
+ },
+ {
+   "A":"Subst.aktywna (anionowe) [meq/g]"
+ },
+ {
+   "A":"Subst.aktywna (anionowa - HPLC) [%]"
+ },
+ {
+   "A":"Subst.aktywna (betainy - 15109) [%]"
+ },
+ {
+   "A":"Subst.aktywna (estry; obliczeniowo) [%]"
+ },
+ {
+   "A":"Subst. aktywna (glicyniany; obliczeniowo) [%]"
+ },
+ {
+   "A":"Subst.aktywna (kationowa) [%]"
+ },
+ {
+   "A":"Subst.aktywna (kationowa) [meq/g]"
+ },
+ {
+   "A":"Subst.aktywna (K30; obliczeniowo) [%]"
+ },
+ {
+   "A":"Subst.aktywna (K40; obliczeniowo) [%]"
+ },
+ {
+   "A":"Subst.aktywna (K30B; obliczeniowo) [%]"
+ },
+ {
+   "A":"Subst.aktywna (Ntlenki amin) [%]"
+ },
+ {
+   "A":"Subst.aktywna (sarkozynian - HPLC) [%]"
+ },
+ {
+   "A":"Subst.niezsiarczanowane wp. na aktywna [%]"
+ },
+ {
+   "A":"Subst.niezsiarczanowane(HPLC) [%]"
+ },
+ {
+   "A":"Subst.niezsiarczanowane [%]"
+ },
+ {
+   "A":"Sucha masa (suszarka; ok.3h) [%]"
+ },
+ {
+   "A":"Sucha masa (wagosuszarka) [%]"
+ },
+ {
+   "A":"SVOC (GC; uklad niepolarny) [%]"
+ },
+ {
+   "A":"Temperatura klarownienia produktu [°C]"
+ },
+ {
+   "A":"Temperatura krzepniecia [°C]"
+ },
+ {
+   "A":"Temperatura plyniecia produktu [°C]"
+ },
+ {
+   "A":"Temperatura topnienia [°C]"
+ },
+ {
+   "A":"Temperatura wrzenia; objetosc [°C]"
+ },
+ {
+   "A":"Temperatura wrzenia; poczatek [°C]"
+ },
+ {
+   "A":"Temperatura zaplonu (tygiel otwarty) [°C]"
+ },
+ {
+   "A":"Temperatura zaplonu (tygiel zamkniety) [°C]"
+ },
+ {
+   "A":"Temperatura zmetnienia; produktu [°C]"
+ },
+ {
+   "A":"Tlenek etylenu (GC) [ppm]"
+ },
+ {
+   "A":"Tlenek etylenu (GC) [ppm]"
+ },
+ {
+   "A":"Tlenek propylenu (GC) [ppm]"
+ },
+ {
+   "A":"Tlenek propylenu (GC) [ppm]"
+ },
+ {
+   "A":"Trietanoloamina sklad (HPLC) [%]"
+ },
+ {
+   "A":"VOC (GC; uklad niepolarny) [%]"
+ },
+ {
+   "A":"Woda (≤1%) [%]"
+ },
+ {
+   "A":"Woda (≥1%) [%]"
+ },
+ {
+   "A":"Wodorosiarczan (IV) sodu (Mw=104;06Da) [%]"
+ },
+ {
+   "A":"Wolna alikoamina (cocobetainy; Mw=225Da) [%]"
+ },
+ {
+   "A":"Wolna amina (Ntlenki) [%]"
+ },
+ {
+   "A":"Wolna DEA (M=105.14) [%]"
+ },
+ {
+   "A":"Wolna MEA (M=61Da) [%]"
+ },
+ {
+   "A":"Wolne kw.tluszcz. (betaina; GC) [%]"
+ },
+ {
+   "A":"Wolne kw.tluszcz. (glicynian; HPLC) [%]"
+ },
+ {
+   "A":"Wolne kw.tluszcz. (glicynian; klasycznie) [%]"
+ },
+ {
+   "A":"Wolne kw.tluszcz. (sarkozynian; HPLC) [%]"
+ },
+ {
+   "A":"Wspolczynnik zalamania swiatla"
+ },
+ {
+   "A":"Wyglad zewnetrzny produktu"
+ },
+ {
+   "A":"Wyglad zewnetrzny roztworu"
+ },
+ {
+   "A":"Zawartosc amidu w KAD (Mw=312) [%]"
+ },
+ {
+   "A":"Zawartosc wody utlenionej [%]"
+ },
+ {
+   "A":"Zdolnosc chaletowania jonow Mg2+ i Ca2+"
+ },
+ {
+   "A":"LabAnalityka"
+ },
+ {
+   "A":"Chromatografia"
+ },
+ {
+   "A":"INNE"
+ }
+],
+    "paging":  {
+      "total":  282
+    }
+}
