@@ -345,10 +345,6 @@
    "Nr projektu":"35/Exol/2019"
  },
  {
-   "Projekt":"Formulacje na Metazachlorze",
-   "Nr projektu":"36/Exol/2019"
- },
- {
    "Projekt":"Triol 700 do celów medycznych",
    "Nr projektu":"4/KR/2019"
  },
@@ -443,6 +439,10 @@
  {
    "Projekt":"Roflam6",
    "Nr projektu":"9/KF/2019"
+ },
+ {
+   "Projekt":"Rokacet RZ10",
+   "Nr projektu":"82/Exol/2019"
  },
  {
    "Projekt":"ROKwin 80 - Synteza w niższej temperaturze",
@@ -897,10 +897,6 @@
    "Nr projektu":"15/PU/2020"
  },
  {
-   "Projekt":"Broszura do I&I",
-   "Nr projektu":"110/Exol/2020"
- },
- {
    "Projekt":"Poliole allilowe dla firmy Evonik",
    "Nr projektu":"12/KR/2020"
  },
@@ -957,10 +953,6 @@
    "Nr projektu":"15/KR/2020"
  },
  {
-   "Projekt":"ROKAmer 2000DS - Zamiennik Dowfax 63N10",
-   "Nr projektu":"125/Exol/2020"
- },
- {
    "Projekt":"Badania uzupełniajce w zakresie dioli LDB 18000D oraz LDB12000D ",
    "Nr projektu":"16/KR/2020"
  },
@@ -1015,10 +1007,6 @@
  {
    "Projekt":"Rokwinol 80PF",
    "Nr projektu":"142/Exol/2020"
- },
- {
-   "Projekt":"Rokolub MOS 32",
-   "Nr projektu":"14/Lubs/2020"
  },
  {
    "Projekt":"Preparaty myjące na bazie koncentratów związków powierzchniowo czynnych   ",
@@ -1465,7 +1453,7 @@
    "Nr projektu":"63/Exol/2021"
  },
  {
-   "Projekt":"ROKAnol K18 roztwór w BDG",
+   "Projekt":"EXOwet LX65",
    "Nr projektu":"64/Exol/2021"
  },
  {
@@ -2685,6 +2673,34 @@
    "Nr projektu":"2/KR/2023"
  },
  {
+   "Projekt":"ROKAmer BP800",
+   "Nr projektu":"13/Exol/2023"
+ },
+ {
+   "Projekt":"ROKAnol TP22",
+   "Nr projektu":"14/Exol/2023"
+ },
+ {
+   "Projekt":"Active Play AS H 8026 - Produkt dla firmy Gran-tech Klej do granulatu SBR",
+   "Nr projektu":"3/KR/2023"
+ },
+ {
+   "Projekt":"Active Play AS H 8025 - Produkt dla firmy PRO PLAST EPP Klej do granulatu SBR",
+   "Nr projektu":"4/KR/2023"
+ },
+ {
+   "Projekt":"Odpowiednik apl Suprasec 2054, Suprasec 2237, Suprasec 2008 - STI, polimoczniki",
+   "Nr projektu":"5/KR/2023"
+ },
+ {
+   "Projekt":"Zamiennik Silcosperse CT 1024",
+   "Nr projektu":"15/Exol/2023"
+ },
+ {
+   "Projekt":"Primer do płyt PIR",
+   "Nr projektu":"6/KR/2023"
+ },
+ {
    "Projekt":"Nie dotyczy",
    "Nr projektu":"Nie dotyczy"
  },
@@ -3318,6 +3334,6 @@
  }
 ],
     "paging":  {
-      "total":  829
+      "total":  833
     }
 }
